@@ -9,9 +9,8 @@ This project is intended to be a starting point for a solution that suits the ne
 the package manager window by clicking on the '+' icon in the upper left hand corner and selectig "Install package from git URL..." and then pasting 
 in `https://github.com/OwenMagelssen/UnityCustomEditorGenerator.git`  
 
-
 <div align="center">
-  <video width="400" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" src="https://user-images.githubusercontent.com/44145090/220857960-da9ec53b-d86e-4c49-9222-0935f9e3fabc.mp4"/>
+  <img src="https://user-images.githubusercontent.com/44145090/221003870-913eaeca-2721-43f2-8955-c1530ef8d61d.GIF">
 </div>  
 
 ### This:
