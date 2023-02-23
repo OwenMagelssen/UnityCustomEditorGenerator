@@ -18,7 +18,7 @@ in `https://github.com/OwenMagelssen/UnityCustomEditorGenerator.git`
 ```c#
 using UnityEngine;
 
-namespace TestRootNamespace
+namespace MyNamespace
 {
     public class MyMonoBehaviour : MonoBehaviour
     {
@@ -47,10 +47,10 @@ namespace TestRootNamespace
 using UnityEngine;
 using UnityEditor;
 
-namespace TestRootNamespace
+namespace MyNamespace
 {
     [CanEditMultipleObjects]
-    [CustomEditor(typeof(TestRootNamespace.MyMonoBehaviour))]
+    [CustomEditor(typeof(MyNamespace.MyMonoBehaviour))]
     public class MyMonoBehaviourEditor : Editor
     {
         private SerializedProperty _myString;
