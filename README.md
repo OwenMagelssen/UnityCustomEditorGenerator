@@ -5,7 +5,9 @@ Read the post/tutorial about this utility [on my blog](https://owenmagelssen.com
 This Unity editor utility will generate a custom editor script for a MonoBehaviour or ScriptableObject in your project by right-clicking on 
 it and selecting Create > Custom Editor. All serialized fields from the script are populated as SerializedProperty members in the editor script. 
 This project is intended to be a starting point for a solution that suits the needs of your project. See some of my suggestions for extending it 
-[in the post](https://owenmagelssen.com/posts/unity-custom-editor-generation/#next-steps).  
+[in the post](https://owenmagelssen.com/posts/unity-custom-editor-generation/#next-steps). You can add this package to your Unity project via 
+the package manager window by clicking on the '+' icon in the upper left hand corner and selectig "Install package from git URL..." and then pasting 
+in `https://github.com/OwenMagelssen/UnityCustomEditorGenerator.git`
 
 <div align="center">
   <video width="400" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" src="https://user-images.githubusercontent.com/44145090/220857960-da9ec53b-d86e-4c49-9222-0935f9e3fabc.mp4"/>
