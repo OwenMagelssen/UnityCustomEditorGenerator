@@ -8,8 +8,8 @@ This project is intended to be a starting point for a solution that suits the ne
 [in the post](https://owenmagelssen.com/posts/unity-custom-editor-generation/#next-steps).  
 
 <div align="center">
-  <video width=400 autoplay loop src="https://user-images.githubusercontent.com/44145090/220857960-da9ec53b-d86e-4c49-9222-0935f9e3fabc.mp4"/>
-</div>
+  <video width="400" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" src="https://user-images.githubusercontent.com/44145090/220857960-da9ec53b-d86e-4c49-9222-0935f9e3fabc.mp4"/>
+</div>  
 
 ### This:
 
