@@ -1,0 +1,11 @@
+{
+    "name": "com.owen.customeditorgenerator",
+    "version": "0.0.1",
+    "displayName": "Custom Editor Generator",
+    "description": "An editor utility that will generate a custom editor script for a MonoBehaviour or ScriptableObject asset.",
+    "author": {
+        "name": "Owen Magelssen",
+        "email": "",
+        "url": "https://owenmagelssen.com/"
+    }
+}

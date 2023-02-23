@@ -1,0 +1,27 @@
+/******************************************************************
+ * Copyright (C) 2023 <Name>. All rights reserved.
+ * <ContactInfo>
+ ******************************************************************/
+
+using UnityEngine;
+using UnityEditor;
+
+#ROOTNAMESPACEBEGIN#
+	[CanEditMultipleObjects]
+    [CustomEditor(typeof(#TARGETNAME#))]
+    public class #SCRIPTNAME# : Editor
+    {
+#PROPERTIES#
+        private void OnEnable()
+        {
+#PROPERTYINITIALIZERS#
+        }
+        
+        public override void OnInspectorGUI()
+        {
+            serializedObject.Update();
+#PROPERTYDRAWING#
+            serializedObject.ApplyModifiedProperties();
+        }
+    }
+#ROOTNAMESPACEEND#
