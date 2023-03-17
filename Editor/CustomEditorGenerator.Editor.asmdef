@@ -1,5 +1,5 @@
 {
-    "name": "OWEN.CustomEditorGenerator.Editor",
+    "name": "CustomEditorGenerator.Editor",
     "rootNamespace": "OWEN",
     "references": [],
     "includePlatforms": [],

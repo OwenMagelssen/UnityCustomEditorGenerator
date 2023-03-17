@@ -4,7 +4,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace OWEN
+namespace CustomEditorGenerator
 {
     public static class CreateScriptFromTemplate
     {
